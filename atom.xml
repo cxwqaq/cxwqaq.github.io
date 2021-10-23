@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cxwqaq.github.io/</id>
     <title>CXW</title>
-    <updated>2021-10-23T03:12:18.067Z</updated>
+    <updated>2021-10-23T03:22:08.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cxwqaq.github.io/"/>
     <link rel="self" href="https://cxwqaq.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://cxwqaq.github.io/images/avatar.png</logo>
     <icon>https://cxwqaq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CXW</rights>
+    <entry>
+        <title type="html"><![CDATA[我用什么才能留住你]]></title>
+        <id>https://cxwqaq.github.io/post/wo-yong-shi-me-cai-neng-liu-zhu-ni/</id>
+        <link href="https://cxwqaq.github.io/post/wo-yong-shi-me-cai-neng-liu-zhu-ni/">
+        </link>
+        <updated>2021-10-23T03:20:28.000Z</updated>
+        <content type="html"><![CDATA[<p>我用什么才能留住你？</p>
+<p>我给你瘦落的街道、绝望的落日、荒郊的月亮。</p>
+<p>我给你一个久久地望着孤月的人的悲哀。</p>
+<p>我给你我已死去的祖辈，</p>
+<p>后人们用大理石祭奠的先魂：</p>
+<p>我父亲的父亲，</p>
+<p>阵亡于布宜诺斯艾利斯的边境，</p>
+<p>两颗子弹射穿了他的胸膛，</p>
+<p>死的时候蓄着胡子，</p>
+<p>尸体被士兵们用牛皮裹起；</p>
+<p>我母亲的祖父</p>
+<p>——那年才二十四岁</p>
+<p>——在秘鲁率领三百人冲锋，</p>
+<p>如今都成了消失的马背上的亡魂。</p>
+<p>我给你我的书中所能蕴含的一切悟力，</p>
+<p>以及我生活中所能有的男子气概和幽默。</p>
+<p>我给你一个从未有过信仰的人的忠诚。</p>
+<p>我给你我设法保全的我自己的核心</p>
+<p>——不营字造句，不和梦交易，</p>
+<p>不被时间、欢乐和逆境触动的核心。</p>
+<p>我给你早在你出生前多年的一个傍晚看到的一朵黄玫瑰的记忆。</p>
+<p>我给你关于你生命的诠释，</p>
+<p>关于你自己的理论，</p>
+<p>你的真实而惊人的存在。</p>
+<p>我给你我的寂寞、我的黑暗、我心的饥渴；</p>
+<p>我试图用困惑、危险、失败来打动你。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://cxwqaq.github.io/post/hello-gridea/</id>
