@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cxwqaq.github.io/</id>
     <title>CXW</title>
-    <updated>2021-10-23T03:22:08.671Z</updated>
+    <updated>2021-10-23T03:30:48.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cxwqaq.github.io/"/>
     <link rel="self" href="https://cxwqaq.github.io/atom.xml"/>
@@ -10,6 +10,53 @@
     <logo>https://cxwqaq.github.io/images/avatar.png</logo>
     <icon>https://cxwqaq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CXW</rights>
+    <entry>
+        <title type="html"><![CDATA[哪里是你的拥抱]]></title>
+        <id>https://cxwqaq.github.io/post/na-li-shi-ni-de-yong-bao/</id>
+        <link href="https://cxwqaq.github.io/post/na-li-shi-ni-de-yong-bao/">
+        </link>
+        <updated>2021-10-23T03:24:40.000Z</updated>
+        <content type="html"><![CDATA[<p>星空下有没有地方<br>
+能停放我的悲伤<br>
+时间流淌 怎么收藏<br>
+与你一起的时光<br>
+你的泪每一次落下<br>
+都经过我的心房<br>
+忽然天空不再明亮<br>
+是你经过我的上方<br>
+伸出手 放在你脸上<br>
+不想忘记你的模样<br>
+黑夜无际 孤独仰望<br>
+亲爱的你是那最远的星吗<br>
+前方的路崎岖漫长<br>
+为寻找你出现<br>
+为你抹去流下的眼泪<br>
+却抹不去悲伤<br>
+你总出现在我梦里<br>
+无论醒在哪里<br>
+我会将你永远珍藏<br>
+在心中最明亮的地方<br>
+哪里是你永远的拥抱<br>
+爱很痛吗<br>
+如果只是梦<br>
+怎会有如此的痛<br>
+忽然天空不再明亮<br>
+难道是给我的奖赏<br>
+伸出手放在你脸上<br>
+不想忘记你的模样<br>
+黑夜无际 孤独仰望<br>
+亲爱的你是那最远的星吗<br>
+前方的路崎岖漫长<br>
+为寻找你出现<br>
+为你抹去流下的眼泪<br>
+却抹不去悲伤<br>
+你总出现在我梦里<br>
+无论醒在哪里<br>
+我会将你永远珍藏<br>
+在心中最明亮的地方<br>
+哪里是你永远的拥抱</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我用什么才能留住你]]></title>
         <id>https://cxwqaq.github.io/post/wo-yong-shi-me-cai-neng-liu-zhu-ni/</id>
